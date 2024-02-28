@@ -17,6 +17,8 @@ int main() {
     int x = 10;
     x += 5; // The addition assignment operator (+=) adds a value to a variable.
     printf("%d\n", x);
+
+    return 0;
 }
 
 // Arithmetic Operators
